@@ -6,7 +6,7 @@
 
 **Thoughts:** I really struggled because the table was not updating after processing the file, then I realized I wasn't using arrow functions!
 
-**Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
 
 
 ### Day 1: July 5, 2020
@@ -15,7 +15,7 @@
 
 **Thoughts:** Still studying if this is the best method, but now I already have a direction.
 
-**Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
 
 ### Day 2: July 6, 2020
 
@@ -23,7 +23,7 @@
 
 **Thoughts:** Spent a lot of time trying to webscrap without success.
 
-**Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
 
 ### Day 3: July 7, 2020
 
@@ -31,7 +31,7 @@
 
 **Thoughts:** Verry happy, made a lot of progress today!
 
-**Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
 
 ### Day 4: July 9, 2020
 
@@ -39,7 +39,7 @@
 
 **Thoughts:** Took me a lot off time kkkk 
 
-**Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
 
 ### Day 5: July 10, 2020
 
@@ -47,7 +47,7 @@
 
 **Thoughts:** Feeling good, my code looks more lean and organized.
 
-**Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
 
 ### Day 6: July 11, 2020
 
@@ -55,7 +55,7 @@
 
 **Thoughts:** Didn't finished yet, but made me think a lot
 
-**Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/pogKxZG)
+
 
 
 ### Day 7: July 12, 2020
@@ -64,7 +64,7 @@
 
 **Thoughts:** Didn't finished yet, but made me think a lot
 
-**Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/pogKxZG)
+
 
 ### Day 8: July 12, 2020
 
@@ -72,7 +72,7 @@
 
 **Thoughts:** I've learned a lot about animations! 
 
-**Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/pogKxZG)
+
 
 ### Day 9: July 23, 2020
 
@@ -80,7 +80,7 @@
 
 **Thoughts:** Love'd this site! 
 
-**Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/pogYwyE)
+
 
 
 ### Day 10: July 24, 2020
@@ -89,4 +89,4 @@
 
 **Thoughts:** Made a simple layout using grid
 
-**Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/rNxRbKR)
+
